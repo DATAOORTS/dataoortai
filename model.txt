@@ -40,8 +40,5 @@ defog/sqlcoder-7b-2
 fblgit/una-cybertron-7b-v2-bf16
 # Text to Image Generation Models
 stabilityai/stable-diffusion-xl-base-1.0
-runwayml/stable-diffusion-v1-5-inpainting
-runwayml/stable-diffusion-v1-5-img2img
 lykon/dreamshaper-8-lcm
-black-forest-labs/flux-1-schnell
 bytedance/stable-diffusion-xl-lightning
