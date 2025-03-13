@@ -1,0 +1,11 @@
+text::meta/llama-3.3-70b-instruct-fp8-fast::0.34
+text::meta/llama-3.1-70b-instruct::0.34
+text::meta/llama-3.1-8b-instruct::0.08
+text::meta/llama-guard-3-8b::0.15
+text::deepseek-ai/deepseek-math-7b-instruct::0.10
+text::deepseek-ai/deepseek-r1-distill-qwen-32b::0.59
+text::qwen/qwen1.5-14b-chat-awq::0.11
+image::stabilityai/stable-diffusion-xl-base-1.0::0.008
+image::lykon/dreamshaper-8-lcm::0.006
+image::bytedance/stable-diffusion-xl-lightning::0.009
+image::black-forest-labs/flux-1-schnell::0.009
