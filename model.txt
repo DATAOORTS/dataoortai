@@ -10,4 +10,3 @@ qwen/qwen1.5-14b-chat-awq
 stabilityai/stable-diffusion-xl-base-1.0
 lykon/dreamshaper-8-lcm
 bytedance/stable-diffusion-xl-lightning
-black-forest-labs/flux-1-schnell
