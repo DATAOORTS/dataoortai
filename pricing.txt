@@ -5,6 +5,10 @@ text::meta/llama-guard-3-8b::0.15
 text::deepseek-ai/deepseek-math-7b-instruct::0.10
 text::deepseek-ai/deepseek-r1-distill-qwen-32b::0.59
 text::qwen/qwen1.5-14b-chat-awq::0.11
+text::qwen/qwen2.5-coder-32b-instruct::0.57
+text::qwen/qwq-32b::0.57
+text::meta/llama-4-scout-17b-16e-instruct::0.34
+text::google/gemma-3-12b-it::0.12
 image::stabilityai/stable-diffusion-xl-base-1.0::0.008
 image::lykon/dreamshaper-8-lcm::0.006
 image::bytedance/stable-diffusion-xl-lightning::0.009
