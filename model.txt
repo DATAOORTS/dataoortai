@@ -12,5 +12,6 @@ google/gemma-3-12b-it
 qwen/qwen1.5-14b-chat-awq
 # Text to Image Generation Models
 stabilityai/stable-diffusion-xl-base-1.0
+black-forest-labs/flux-1-schnell
 lykon/dreamshaper-8-lcm
 bytedance/stable-diffusion-xl-lightning
