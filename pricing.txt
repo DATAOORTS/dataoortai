@@ -9,6 +9,8 @@ text::qwen/qwen2.5-coder-32b-instruct::0.57
 text::qwen/qwq-32b::0.57
 text::meta/llama-4-scout-17b-16e-instruct::0.34
 text::google/gemma-3-12b-it::0.12
+text::openai/gpt-oss-120b::0.45
+text::openai/gpt-oss-20b::0.25
 image::stabilityai/stable-diffusion-xl-base-1.0::0.0011
 image::lykon/dreamshaper-8-lcm::0.0010
 image::bytedance/stable-diffusion-xl-lightning::0.0011
