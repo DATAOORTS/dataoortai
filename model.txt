@@ -10,8 +10,8 @@ qwen/qwq-32b
 meta/llama-4-scout-17b-16e-instruct
 google/gemma-3-12b-it
 qwen/qwen1.5-14b-chat-awq
-openai/gpt-oss-120b
-openai/gpt-oss-20b
+#openai/gpt-oss-120b
+#openai/gpt-oss-20b
 # Text to Image Generation Models
 stabilityai/stable-diffusion-xl-base-1.0
 black-forest-labs/flux-1-schnell
