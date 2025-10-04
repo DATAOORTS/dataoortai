@@ -2,9 +2,7 @@ text::meta/llama-3.3-70b-instruct-fp8-fast::0.34
 text::meta/llama-3.1-70b-instruct::0.34
 text::meta/llama-3.1-8b-instruct::0.08
 text::meta/llama-guard-3-8b::0.15
-text::deepseek-ai/deepseek-math-7b-instruct::0.10
 text::deepseek-ai/deepseek-r1-distill-qwen-32b::0.59
-text::qwen/qwen1.5-14b-chat-awq::0.11
 text::qwen/qwen2.5-coder-32b-instruct::0.57
 text::qwen/qwq-32b::0.57
 text::meta/llama-4-scout-17b-16e-instruct::0.34
